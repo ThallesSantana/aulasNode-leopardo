@@ -1,0 +1,1 @@
+console.log("Ja foi um S de xayah, faltam dois, a gente consegue, mono xayah pra sempre.")
